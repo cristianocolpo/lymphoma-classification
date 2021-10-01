@@ -1,0 +1,2 @@
+# lymphoma-classification
+ This repository contains the code and paper about the Human Data Analytics project course at the University of Padua. The authors propose models that can achieve up to 98% of accuracy in classify lymphoma subtypes, highlighting that we need to focus on obtaining an explainable model instead of throwing a large and complex one that we cannot fully understand. The notebook includes preprocessing functions for fast training on Google TPUs.
